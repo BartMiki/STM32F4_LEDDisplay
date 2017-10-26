@@ -1,3 +1,4 @@
-# STM32F4_LEDDisplay
+# STM32F4 LED Display
 
-Main program that's dipslay numbers on LEDDisplay is in directory: 
+Main program that's dipslay numbers on LEDDisplay is in directory:
+src/main.c
